@@ -1,0 +1,314 @@
+TRUCK #1 STARTING DELIVERIES AT 2021-01-01 08:00:00    
+Closest location for truck #1 is [20], and is 1.9 away.
+-> Going to [20], and delivering packages
+-> Adding 1.9 to total mileage for trip: 1.9
+-> Current time is: 2021-01-01 08:06:20
+-> Delivering Package #14 to 4300 S 1300 E
+Packages remaining: 15
+
+Closest location for truck #1 is [21], and is 2.0 away.
+-> Going to [21], and delivering packages
+-> Adding 2.0 to total mileage for trip: 3.9
+-> Current time is: 2021-01-01 08:13:00
+-> Delivering Package #15 to 4580 S 2300 E
+-> Delivering Package #34 to 4580 S 2300 E
+Packages remaining: 13
+
+Closest location for truck #1 is [17], and is 5.0 away.
+-> Going to [17], and delivering packages
+-> Adding 5.0 to total mileage for trip: 8.9
+-> Current time is: 2021-01-01 08:29:40
+-> Delivering Package #20 to 3595 Main St
+Packages remaining: 12
+
+Closest location for truck #1 is [4], and is 0.5 away.
+-> Going to [4], and delivering packages
+-> Adding 0.5 to total mileage for trip: 9.4
+-> Current time is: 2021-01-01 08:31:20
+-> Delivering Package #19 to 177 W Price Ave
+Packages remaining: 11
+
+Closest location for truck #1 is [17], and is 0.5 away.
+-> Going to [17], and delivering packages
+-> Adding 0.5 to total mileage for trip: 9.9
+-> Current time is: 2021-01-01 08:33:00
+-> Delivering Package #21 to 3595 Main St
+Packages remaining: 10
+
+Closest location for truck #1 is [18], and is 1.6 away.
+-> Going to [18], and delivering packages
+-> Adding 1.6 to total mileage for trip: 11.5
+-> Current time is: 2021-01-01 08:38:20
+-> Delivering Package #4 to 380 W 2880 S
+-> Delivering Package #40 to 380 W 2880 S
+Packages remaining: 8
+
+Closest location for truck #1 is [5], and is 1.1 away.
+-> Going to [5], and delivering packages
+-> Adding 1.1 to total mileage for trip: 12.6
+-> Current time is: 2021-01-01 08:42:00
+-> Delivering Package #1 to 195 W Oakland Ave
+Packages remaining: 7
+
+Closest location for truck #1 is [2], and is 2.8 away.
+-> Going to [2], and delivering packages
+-> Adding 2.8 to total mileage for trip: 15.399999999999999
+-> Current time is: 2021-01-01 08:51:20
+-> Delivering Package #29 to 1330 2100 S
+Packages remaining: 6
+
+Closest location for truck #1 is [19], and is 4.3 away.
+-> Going to [19], and delivering packages
+-> Adding 4.3 to total mileage for trip: 19.7
+-> Current time is: 2021-01-01 09:05:40
+-> Delivering Package #37 to 410 S State St
+Packages remaining: 5
+
+Closest location for truck #1 is [12], and is 1.0 away.
+-> Going to [12], and delivering packages
+-> Adding 1.0 to total mileage for trip: 20.7
+-> Current time is: 2021-01-01 09:09:00
+-> Delivering Package #30 to 300 State St
+Packages remaining: 4
+
+Closest location for truck #1 is [6], and is 4.2 away.
+-> Going to [6], and delivering packages
+-> Adding 4.2 to total mileage for trip: 24.9
+-> Current time is: 2021-01-01 09:23:00
+-> Delivering Package #13 to 2010 W 500 S
+-> Delivering Package #39 to 2010 W 500 S
+Packages remaining: 2
+
+Closest location for truck #1 is [15], and is 5.8 away.
+-> Going to [15], and delivering packages
+-> Adding 5.8 to total mileage for trip: 30.7
+-> Current time is: 2021-01-01 09:42:20
+-> Delivering Package #31 to 3365 S 900 W
+Packages remaining: 1
+
+Closest location for truck #1 is [21], and is 6.9 away.
+-> Going to [21], and delivering packages
+-> Adding 6.9 to total mileage for trip: 37.6
+-> Current time is: 2021-01-01 10:05:20
+-> Delivering Package #16 to 4580 S 2300 E
+Packages remaining: 0
+
+HUB return trip: 3.4
+TRUCK #1 RETURNING TO HUB
+
+
+
+
+
+TRUCK #2 STARTING DELIVERIES AT 2021-01-01 09:05:00
+Closest location for truck #2 is [24], and is 2.4 away.
+-> Going to [24], and delivering packages
+-> Adding 2.4 to total mileage for trip: 2.4
+-> Current time is: 2021-01-01 09:13:00
+-> Delivering Package #25 to 5383 S 900 East #104
+Packages remaining: 14
+
+Closest location for truck #2 is [26], and is 1.3 away.
+-> Going to [26], and delivering packages
+-> Adding 1.3 to total mileage for trip: 3.7
+-> Current time is: 2021-01-01 09:17:20
+-> Delivering Package #22 to 6351 South 900 East
+Packages remaining: 13
+
+Closest location for truck #2 is [24], and is 1.3 away.
+-> Going to [24], and delivering packages
+-> Adding 1.3 to total mileage for trip: 5.0
+-> Current time is: 2021-01-01 09:21:40
+-> Delivering Package #26 to 5383 S 900 East #104
+Packages remaining: 12
+
+Closest location for truck #2 is [9], and is 4.8 away.
+-> Going to [9], and delivering packages
+-> Adding 4.8 to total mileage for trip: 9.8
+-> Current time is: 2021-01-01 09:37:40
+-> Delivering Package #2 to 2530 S 500 E
+-> Delivering Package #33 to 2530 S 500 E
+Packages remaining: 10
+
+Closest location for truck #2 is [11], and is 1.1 away.
+-> Going to [11], and delivering packages
+-> Adding 1.1 to total mileage for trip: 10.9
+-> Current time is: 2021-01-01 09:41:20
+-> Delivering Package #28 to 2835 Main St
+Packages remaining: 9
+
+Closest location for truck #2 is [14], and is 2.6 away.
+-> Going to [14], and delivering packages
+-> Adding 2.6 to total mileage for trip: 13.5
+-> Current time is: 2021-01-01 09:50:00
+-> Delivering Package #17 to 3148 S 1100 W
+Packages remaining: 8
+
+Closest location for truck #2 is [15], and is 0.6 away.
+-> Going to [15], and delivering packages
+-> Adding 0.6 to total mileage for trip: 14.1
+-> Current time is: 2021-01-01 09:52:00
+-> Delivering Package #32 to 3365 S 900 W
+Packages remaining: 7
+
+Closest location for truck #2 is [13], and is 1.5 away.
+-> Going to [13], and delivering packages
+-> Adding 1.5 to total mileage for trip: 15.6
+-> Current time is: 2021-01-01 09:57:00
+-> Delivering Package #6 to 3060 Lester St
+Packages remaining: 6
+
+Closest location for truck #2 is [7], and is 1.6 away.
+-> Going to [7], and delivering packages
+-> Adding 1.6 to total mileage for trip: 17.2
+-> Current time is: 2021-01-01 10:02:20
+-> Delivering Package #36 to 2300 Parkway Blvd
+Packages remaining: 5
+
+Closest location for truck #2 is [16], and is 3.1 away.
+-> Going to [16], and delivering packages
+-> Adding 3.1 to total mileage for trip: 20.3
+-> Current time is: 2021-01-01 10:12:40
+-> Delivering Package #12 to 3575 W Valley Central Station bus Loop
+Packages remaining: 4
+
+Closest location for truck #2 is [8], and is 7.2 away.
+-> Going to [8], and delivering packages
+-> Adding 7.2 to total mileage for trip: 27.5
+-> Current time is: 2021-01-01 10:36:40
+-> Delivering Package #3 to 233 Canyon Rd
+Packages remaining: 3
+
+Closest location for truck #2 is [19], and is 1.0 away.
+-> Going to [19], and delivering packages
+-> Adding 1.0 to total mileage for trip: 28.5
+-> Current time is: 2021-01-01 10:40:00
+-> Delivering Package #5 to 410 S State St
+-> Delivering Package #38 to 410 S State St
+Packages remaining: 1
+
+Closest location for truck #2 is [3], and is 10.6 away.
+-> Going to [3], and delivering packages
+-> Adding 10.6 to total mileage for trip: 39.1
+-> Current time is: 2021-01-01 11:15:20
+-> Delivering Package #18 to 1488 4800 S
+Packages remaining: 0
+
+HUB return trip: 11.0
+TRUCK #2 RETURNING TO HUB
+
+
+
+
+
+
+
+
+TRUCK #3 STARTING DELIVERIES AT 2021-01-01 10:20:00
+Closest location for truck #3 is [22], and is 2.4 away.
+-> Going to [22], and delivering packages
+-> Adding 2.4 to total mileage for trip: 2.4
+-> Current time is: 2021-01-01 10:28:00
+-> Delivering Package #24 to 5025 State St
+Packages remaining: 8
+
+Closest location for truck #3 is [10], and is 4.1 away.
+-> Going to [10], and delivering packages
+-> Adding 4.1 to total mileage for trip: 6.5
+-> Current time is: 2021-01-01 10:41:40
+-> Delivering Package #11 to 2600 Taylorsville Blvd
+Packages remaining: 7
+
+Closest location for truck #3 is [23], and is 0.4 away.
+-> Going to [23], and delivering packages
+-> Adding 0.4 to total mileage for trip: 6.9
+-> Current time is: 2021-01-01 10:43:00
+-> Delivering Package #23 to 5100 South 2700 West
+Packages remaining: 6
+
+Closest location for truck #3 is [1], and is 6.9 away.
+-> Going to [1], and delivering packages
+-> Adding 6.9 to total mileage for trip: 13.8
+-> Current time is: 2021-01-01 11:06:00
+-> Delivering Package #27 to 1060 Dalton Ave S
+Packages remaining: 5
+
+Closest location for truck #3 is [25], and is 4.4 away.
+-> Going to [25], and delivering packages
+-> Adding 4.4 to total mileage for trip: 18.200000000000003
+-> Current time is: 2021-01-01 11:20:40
+-> Delivering Package #10 to 600 E 900 South
+Packages remaining: 4
+
+Closest location for truck #3 is [19], and is 1.8 away.
+-> Going to [19], and delivering packages
+-> Adding 1.8 to total mileage for trip: 20.000000000000004
+-> Current time is: 2021-01-01 11:26:40
+-> Delivering Package #9 to 410 S State St
+Packages remaining: 3
+
+Closest location for truck #3 is [12], and is 1.0 away.
+-> Going to [12], and delivering packages
+-> Adding 1.0 to total mileage for trip: 21.000000000000004
+-> Current time is: 2021-01-01 11:30:00
+-> Delivering Package #8 to 300 State St
+Packages remaining: 2
+
+Closest location for truck #3 is [1], and is 4.8 away.
+-> Going to [1], and delivering packages
+-> Adding 4.8 to total mileage for trip: 25.800000000000004
+-> Current time is: 2021-01-01 11:46:00
+-> Delivering Package #35 to 1060 Dalton Ave S
+Packages remaining: 1
+
+Closest location for truck #3 is [2], and is 7.1 away.
+-> Going to [2], and delivering packages
+-> Adding 7.1 to total mileage for trip: 32.900000000000006
+-> Current time is: 2021-01-01 12:09:40
+-> Delivering Package #7 to 1330 2100 S
+Packages remaining: 0
+
+HUB return trip: 3.8
+TRUCK #3 RETURNING TO HUB
+
+1 DELIVERED 2021-01-01 08:42:00
+2 DELIVERED 2021-01-01 09:37:40
+3 DELIVERED 2021-01-01 10:36:40
+4 DELIVERED 2021-01-01 08:38:20
+5 DELIVERED 2021-01-01 10:40:00
+6 DELIVERED 2021-01-01 09:57:00
+7 DELIVERED 2021-01-01 12:09:40
+8 DELIVERED 2021-01-01 11:30:00
+9 DELIVERED 2021-01-01 11:26:40
+10 DELIVERED 2021-01-01 11:20:40
+11 DELIVERED 2021-01-01 10:41:40
+12 DELIVERED 2021-01-01 10:12:40
+13 DELIVERED 2021-01-01 09:23:00
+14 DELIVERED 2021-01-01 08:06:20
+15 DELIVERED 2021-01-01 08:13:00
+16 DELIVERED 2021-01-01 10:05:20
+17 DELIVERED 2021-01-01 09:50:00
+18 DELIVERED 2021-01-01 11:15:20
+19 DELIVERED 2021-01-01 08:31:20
+20 DELIVERED 2021-01-01 08:29:40
+21 DELIVERED 2021-01-01 08:33:00
+22 DELIVERED 2021-01-01 09:17:20
+23 DELIVERED 2021-01-01 10:43:00
+24 DELIVERED 2021-01-01 10:28:00
+25 DELIVERED 2021-01-01 09:13:00
+26 DELIVERED 2021-01-01 09:21:40
+27 DELIVERED 2021-01-01 11:06:00
+28 DELIVERED 2021-01-01 09:41:20
+29 DELIVERED 2021-01-01 08:51:20
+30 DELIVERED 2021-01-01 09:09:00
+31 DELIVERED 2021-01-01 09:42:20
+32 DELIVERED 2021-01-01 09:52:00
+33 DELIVERED 2021-01-01 09:37:40
+34 DELIVERED 2021-01-01 08:13:00
+35 DELIVERED 2021-01-01 11:46:00
+36 DELIVERED 2021-01-01 10:02:20
+37 DELIVERED 2021-01-01 09:05:40
+38 DELIVERED 2021-01-01 10:40:00
+39 DELIVERED 2021-01-01 09:23:00
+40 DELIVERED 2021-01-01 08:38:20
+total final mileage : 127.8
